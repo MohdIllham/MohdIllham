@@ -9,7 +9,7 @@ Experienced Business/Data Analyst aspiring to become a Data Engineer, skilled in
 * 🌍  I'm based in Kuala Lumpur, Malaysia.
 <!--* 🖥️  See my portfolio at [Web Portfolio](https://razeeniqbal.vercel.app/) -->
 * ✉️  You can contact me at [illham.mustafa.work@gmail.com ](mailto:illham.mustafa.work@gmail.com)
-* * 🖥️  See my portfolio at [Web Portfolio](https://my-portfolio-website-psi-livid.vercel.app/)
+* 🖥️  See my portfolio at [Web Portfolio](https://my-portfolio-website-psi-livid.vercel.app/)
 * 🧠  Currently learning **AI, Machine Learning, and Data Engineering concepts**
 * 👥  I'm looking to collaborate on making new project from scratch just for learning.
 
